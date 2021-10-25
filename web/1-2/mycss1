@@ -1,0 +1,20 @@
+h1 {
+    font-size: 50px;
+
+}
+
+.fieldset1 {
+    border: solid 2px #000099;
+    width: 40px;
+    margin:auto;
+    background-color: white;
+    }
+
+
+input, select, textarea, label{
+        font-size: medium;
+        margin: 0.5%;
+    }
+select {
+    background-color: #FFFBE2;
+}
