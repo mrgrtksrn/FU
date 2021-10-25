@@ -1,0 +1,43 @@
+.highpriority {
+    border-left-width: 5px;
+    border-left-color: #FF4040;
+    border-left-style: solid;
+    padding-left: 10px;
+    
+}
+
+.mediumpriority {
+
+    border-left-width: 5px;
+    border-left-color: #F3D000;
+    border-left-style: solid;
+    padding-left: 10px;
+}
+
+.lowpriority {
+    border-left-width: 5px;
+    border-left-color: #5AA731;
+    border-left-style: solid;
+    padding-left: 10px;
+}
+
+.description {
+    color: #6D6D6D;
+    font-size: smaller;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.name {
+    color: white;
+    background-color: #FFE653;
+    
+}
+
+.bord {
+    border-bottom-width: 1px;
+    border-bottom-color: #D8D8D8;
+    border-bottom-style: solid;
+}
