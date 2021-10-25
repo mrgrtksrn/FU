@@ -1,0 +1,76 @@
+.round {
+    border-radius: 50%;
+    width: 150px; height: 150px; /* Ширина и высота */
+   }
+   
+
+.object {
+    background-color: white;
+}
+
+body {
+    background-color:#ebebeb;
+  }
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 100px;
+    margin: 0 auto;
+}
+
+td {
+    padding: 1%;
+   /* border: 1px solid #000000; /* Граница вокруг ячеек */ 
+   /* float: left; /* Обтекание картинки текстом */
+   
+}
+
+#in {
+    border-spacing: 0;
+    padding: 1.5%;
+}
+
+#tit {
+    /*text-align: center;*/
+    font-family: Pompadur, 'Geometry';
+    font-size: 200%;
+}
+
+#prof {
+    font-family: Pompadur, 'Geometry';
+    font-size: 120%;
+    color: #393939;
+}
+
+
+
+*{padding:0;margin:0;}
+ul{margin:20px;}
+li{
+  list-style-type: none;
+  width:370px;
+  border-left: 2px solid #E3E3E3;
+  padding-left:20px;
+  padding-bottom:5px;
+  font-family: Pompadur, 'Formular';
+  font-size: 110%;
+}
+li:before{
+  content:"";
+  position:absolute;
+  margin-left:-28px;
+  background:#fff;
+  border-radius:10px;
+  border:3px solid rgb(108, 146, 91);
+  padding:5px;
+  
+}
+
+h3 {
+    color: #9F636E;
+}
