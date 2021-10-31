@@ -1,0 +1,297 @@
+.four {
+
+position: absolute;
+    top: 2676px;
+    left: 354px;
+}
+
+.onemorerect{
+    position: absolute;
+width: 45px;
+height: 2px;
+left: 357px;
+top: 2760px;
+
+background: #252525;
+}
+
+.camera {
+    position: absolute;
+   width: 727px;
+   height: 482px;
+   top: 2613px;
+   left: 956px;
+
+}
+
+.foto {
+    top:0px;
+    width: 455px;
+    height: 444px;
+    margin-top: 18px;
+    margin-left: 127px;
+    background: #F3F4F6;
+}
+
+.years {
+
+width: 295px;
+height: 142px;
+left: 0px;
+top: 0px;
+margin-top: 280px;
+
+
+}
+
+.smalltitle {
+    /* ALL */
+
+position: absolute;
+width: 25px;
+height: 18px;
+left: 365px;
+top: 2813px;
+
+font-family: Open Sans;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.832px;
+
+color: #252525;
+}
+
+.sec {
+    position: absolute;
+width: 95px;
+height: 18px;
+top: 2813px;
+
+
+font-family: Open Sans;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.832px;
+
+color: #252525;
+
+mix-blend-mode: normal;
+opacity: 0.3;
+}
+
+.web {
+    left: 430.5px;
+}
+
+.bran {
+    left: 558px;
+}
+
+.pho {
+    left: 672.5px
+}
+
+.il{
+    left: 817px
+}
+
+.cat {
+    position: absolute;
+width: 679px;
+height: 453px;
+left: 235px;
+top: 2989px;
+}
+
+.koshka {
+    margin-left: 124px;
+    background: #F3F4F6;
+    width: 455px;
+height: 444px;
+}
+
+.kitty {
+
+position: absolute;
+    width: 220px;
+    height: 142px;
+    top: 0px;
+margin-left: 494px;
+margin-top: 271px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 71px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 3.072px;
+
+color: #252525;
+}
+
+.kitline {
+
+position: absolute;
+width: 218px;
+height: 3px;
+top: 0px;
+margin-left: 489px;
+margin-top: 315px;
+
+background: #70BF73;
+}
+
+.lifeline {
+    position: absolute;
+width: 88px;
+height: 3px;
+top: 0px;
+margin-top: 380px;
+margin-left: 489px;
+
+background: #70BF73;
+}
+
+.divide {
+    position: absolute;
+width: 116px;
+height: 25px;
+/* left: 174px;
+top: 467px; */
+
+font-family: Open Sans;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 1.152px;
+
+color: #252525;
+}
+
+.ph1 {
+    top: 3459px;
+    left: 533px;
+}
+
+.ph2 {
+    top: 3099px;
+    left: 1297px;
+}
+
+.ph3 {
+    top: 3831px;
+    left: 1297px;
+}
+
+.ph4 {
+    top: 4192px;
+    left: 539px;
+}
+
+
+.descript {
+    position: absolute;
+width: 336px;
+height: 46px;
+
+font-family: Open Sans;
+font-size: 13px;
+line-height: 23px;
+/* or 177% */
+display: flex;
+align-items: center;
+letter-spacing: 0.832px;
+
+color: #C2C2C2;
+
+}
+
+.l1 {
+    top: 3504px ;
+    left: 533px;
+}
+
+.l2 {
+    top: 3141px;
+    left: 1142px;
+}
+.l3 {
+    top: 3873px;
+    left: 1142px;
+}
+.l4 {
+    top: 4237px;
+    left: 539px;
+}
+
+.computer {
+
+position: absolute;
+width: 673px;
+height: 448px;
+left: 980px;
+top: 3360px
+}
+
+.compik {
+    top: 0px;
+    margin-left: 109px;
+    width: 455px;
+height: 444px;
+background: #F3F4F6;
+}
+
+.nadpis {
+    position: absolute;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 71px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 3.072px;
+
+color: #252525;
+}
+
+.mac {
+    width: 420px;
+height: 142px;
+    top: 0px;
+margin-top: 266px;
+margin-right: 291px;
+}
+
+.apple {
+
+position: absolute;
+width: 656px;
+height: 656px;
+top: 3725px;
+left: 365px;
+
+}
+
+.notebook {
+    width: 455px;
+height: 444px;
+top: 0px;
+margin-top: 0px;
+margin-left: 0px;
+background: #F3F4F6;
+}
+
+.lost {
+    top: 0px;
+    margin-top: 268px;
+    margin-left: 370px;
+}

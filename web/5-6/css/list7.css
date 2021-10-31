@@ -1,0 +1,102 @@
+.left {
+position: absolute;
+width: 900px;
+height: 300px;
+left: 0px;
+top: 5805px;
+
+background: #FBFBFB;
+}
+
+.title_list6 {
+    font-family: Oswald;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 2.66667px;
+
+color: #373737;
+}
+
+.together {
+    position: absolute;
+width: 264px;
+height: 36px;
+left: 320px;
+top: 123px;
+}
+
+.case {
+    position: absolute;
+width: 35px;
+height: 35px;
+left: 434px;
+top: 69px;
+}
+
+.info {
+    font-family: OpenSans;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 1.55556px;
+    
+    color: #373737;
+    
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.tell {
+    position: absolute;
+width: 279px;
+height: 19px;
+left: 312px;
+top: 181px;
+}
+
+.right {
+
+position: absolute;
+width: 900px;
+height: 300px;
+left: 900px;
+top: 5805px;
+
+background: #70BD59;
+}
+
+.email {
+    position: absolute;
+width: 35px;
+height: 35px;
+left: 434px;
+top: 72px;
+}
+
+.contact {
+    color: #FFFFFF;
+
+    position: absolute;
+width: 117px;
+height: 36px;
+left: 394px;
+top: 123px;
+}
+
+.in_touch{
+    color: #FFFFFF;
+
+    position: absolute;
+width: 95px;
+height: 19px;
+left: 404.5px;
+top: 181px;
+}

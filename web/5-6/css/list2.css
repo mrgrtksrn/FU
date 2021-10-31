@@ -1,0 +1,164 @@
+.men {
+    position: absolute;
+    width: 590px;
+    height: 411px;
+    left: 296px;
+    top: 1082px;
+    
+    /* background-color: antiquewhite; */
+    
+
+/* background-color: antiquewhite; */
+
+/* mix-blend-mode: normal;
+opacity: 0.3; */
+
+}
+
+
+.we {
+    position: absolute;
+width: 150px;
+height: 53px;
+margin-left: 19px;
+margin-top: 92px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 53px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 2.304px;
+
+color: #333333;
+}
+
+.sqwd {
+    position: absolute;
+width: 250px;
+height: 57px;
+margin-left: 19px;
+margin-top: 149px;
+z-index: 2;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 300;
+font-size: 42px;
+line-height: 57px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 2.688px;
+
+color: #504E4E;
+}
+
+.lorem {
+    /* Lorem ipsum dolor si */
+    
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 25px;
+/* or 167% */
+display: flex;
+align-items: center;
+letter-spacing: 1.26px;
+z-index: 2;
+
+color: #5B5858;
+}
+
+.numberone {
+    position:absolute;
+    margin-top: 238px;
+    margin-left:70px;
+    width: 281px;
+    height: 75px;
+}
+
+.rectbl {
+    position: absolute;
+    width: 20px;
+    height: 2px;
+    top: 0px;
+    margin-left: 40px;
+    margin-top: 252px;
+
+background: #353535;
+}
+
+
+.greenbox {
+    position: absolute;
+width: 309px;
+height: 418px;
+left: 718px;
+top: 1163px;
+z-index: -1;
+background: #4CAF50;
+mix-blend-mode: normal;
+opacity: 0.8;
+}
+
+.imgman {
+    position: absolute;
+width: 309px;
+height: 391px;
+margin-left: 212px;
+top:0px;
+margin-top: 19px;
+z-index: 0;
+background: #F4F4F4;
+}
+
+
+
+.newmen {
+    z-index: -2;
+position: absolute;
+width: 844px;
+height: 562px;
+left: 640px;
+top: 1100px;
+
+mix-blend-mode: normal;
+/* opacity: 0.5;
+transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+
+.imgdance {
+position: absolute;
+width: 309px;
+height: 391px;
+left: 0px;
+top: 0px;
+margin-top: 169px;
+margin-left: 290px;
+background: #F4F4F4;
+}
+
+.numbertwo {
+    position:absolute;
+    z-index: 1;
+    top:1505px;
+    left: 1220px;
+    width: 281px;
+    height: 75px;
+}
+
+.recttwo {
+    position: absolute;
+width: 20px;
+height: 2px;
+left: 1190px;
+top: 1533px;
+
+background: #353535;
+}
+
+

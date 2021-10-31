@@ -1,0 +1,162 @@
+.section-top {
+  background:url(Bitmap.jpg);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1800px;
+  height: 904px;
+  
+}
+
+.section-top::before {
+  content: '';
+  position: absolute;
+  width: 1800px;
+  height: 904px;
+  left: 0px;
+  top: 0px;
+  background: linear-gradient(177.86deg, #000000 -41.81%, rgba(0, 0, 0, 0.0001) 82.48%), linear-gradient(2.34deg, #000000 -44.57%, rgba(0, 0, 0, 0.0001) 17.83%), linear-gradient(87.84deg, #000000 8.34%, rgba(0, 0, 0, 0.0001) 71.65%), linear-gradient(270deg, #000000 -17.62%, rgba(0, 0, 0, 0.0001) 82.37%);
+}  
+
+.section-top__container {
+  position: relative;
+  width: 520px;
+}
+
+.section-top__info {
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  color: #fcff00;
+  margin: 0;
+}
+
+.section-top__title {
+  /* WHERE GREAT IDEAS CO */
+
+    position: absolute;
+    width: 1171.05px;
+    height: 98px;
+    left: 310.48px;
+    top: 323px;
+
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 107px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 4.608px;
+
+    color: #FFFFFF;
+
+}
+
+.section-top-description {
+    /* Passionate creative */
+
+    position: absolute;
+    width: 670px;
+    height: 27px;
+    left: 520px;
+    top: 477px;
+    
+    font-family: Open Sans;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 1.28px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.section-top-01 {
+
+position: absolute;
+width: 42.93px;
+height: 49px;
+left: 845.59px;
+top: 800px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 53px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 2.304px;
+z-index: 1;
+color: #FFFFFF;
+
+}
+
+.section-top-02 {
+  position: absolute;
+  width: 21.96px;
+  height: 25px;
+  left: 897.5px;
+  top: 838px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: 1.152px;
+  
+  color: rgba(255, 255, 255, 0.437245);
+  
+}
+
+.section-top-03 {
+
+  position: absolute;
+  width: 21.96px;
+  height: 25px;
+  left: 928.45px;
+  top: 838px;
+  
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: 1.152px;
+  
+  color: rgba(255, 255, 255, 0.437245);
+}
+
+
+.rectangle2{
+  position: absolute;
+width: 9.98px;
+height: 2px;
+left: 844px;
+top: 860px;
+z-index: 2;
+background: #4CAF50;
+}
+
+.rectangle3{
+  position: absolute;
+  width: 39.93px;
+  height: 2px;
+  left: 847px;
+  top: 860px;
+  z-index: 0;
+  background: #4CAF50;
+}

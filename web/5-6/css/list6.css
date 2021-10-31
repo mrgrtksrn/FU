@@ -1,0 +1,74 @@
+.dep {
+
+position: absolute;
+width: 735px;
+height: 93px;
+left: 533px;
+top: 5418px;
+
+font-family: Open Sans;
+font-size: 14px;
+line-height: 31px;
+/* or 221% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.896px;
+
+color: #373737;
+}
+
+.number {
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 890px;
+top: 5542px;
+/* 
+mix-blend-mode: normal;
+opacity: 0.34; */
+}
+
+.gridlist6 {
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 0 9px;
+    top: 5643px;
+    left: 843px;
+}
+
+.linelist6 {
+
+position: absolute;
+width: 511px;
+height: 1px;
+left: 645px;
+top: 5687px;
+
+background: #D8D8D8;
+mix-blend-mode: normal;
+opacity: 0.5;
+
+}
+
+.david {
+    position: absolute;
+width: 210px;
+height: 27px;
+left: 806px;
+top: 5591px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 1.152px;
+
+color: #373737;
+}
