@@ -1,26 +1,9 @@
-/* 
-font-family: 'Roboto', sans-serif;
-font-family: 'Montserrat', sans-serif;
-lg: 1200px
-md: 992px
-sm: 767px
-xs: 576px
-*/
 
-/* * {
-  box-sizing: border-box;
-} */
-
-body {
-  
-background: #FFFFFF;
-  
-}
 
 .wrapper {
   position: relative;
 
-  max-width: 1800px;
+  width: 100%;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto
