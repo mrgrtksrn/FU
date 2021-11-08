@@ -39,33 +39,26 @@
 }
 
 .header-page__link {
-  /* 
-  text-decoration: none;
-  display: block;
-  padding: 15px 35px;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 900;
-  font-size: 18px;
-  position: relative; */
+
   text-decoration: none;
   margin-left: 58.4px;
-    margin-right: 10px;
-    color: #fff;
+  margin-right: 10px;
+  color: #fff;
 
     /* width: ; */
-    height: 19px;
-    left: 0px;
-    top: 0px;
+  height: 19px;
+  left: 0px;
+  op: 0px;
    
 
-    font-family: Oswald;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 21px;
-    display: flex;
-    align-items: flex-end;
-    letter-spacing: 1.94px;
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: 1.94px;
 }
 
 
@@ -75,5 +68,7 @@
   transition: all .2s;
 }
 
-
+.header-page__link:hover {
+  color: #4CAF50; 
+}
 
